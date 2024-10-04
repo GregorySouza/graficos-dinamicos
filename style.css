@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
 
 :root {
-    --bg-color: #021526;
-    --primary-color: #6EACDA;
-    --secondary-color: #e2e261;
+    --bg-color: #3e3f41;
+    --primary-color: #d1705f;
+    --secondary-color: #489236;
     --font: "Inconsolata", system-ui;
 }
 
